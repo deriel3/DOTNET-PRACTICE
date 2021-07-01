@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiCatalogoStartUp</name>
+    </assembly>
+    <members>
+        <member name="M:ApiCatalogoStartUp.Controllers.v1.StartupController.Obtener(System.Int32,System.Int32)">
+            <summary>
+            Buscar todos los start up por paginacion
+            </summary>
+            <param name="pagina"></param>
+            <param name="cantidad"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
